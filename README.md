@@ -42,3 +42,13 @@ Follow the steps outlined in the [Google Codelab](https://codelabs.developers.go
 - **Button Interactions**: Connect button presses to trigger actions, such as generating a new random word or saving a word.
 - **Code Organization**: Organize my Flutter code to maintain readability and modularity.
 - **Responsive Design**: Ensure that the app layout adapts well to different screen sizes.
+
+## Mockups
+
+#### Homepage
+
+![Homepage mockup](https://github.com/iker-gonzalez/wordWander/blob/main/docs/mockups/homepage.png)
+
+#### Favorites list
+
+![Favorites mockup](https://github.com/iker-gonzalez/wordWander/blob/main/docs/mockups/favorites_page.png)
